@@ -140,4 +140,3 @@ dmypy.json
 *.hdf5
 *.xml
 *.yaml
-*.yml
