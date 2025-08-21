@@ -1,9 +1,8 @@
 # Folder to make test for the project
 pdfs-test/*
-src/output/*
-src/backend/output/*
-src/backend/deliver/*
-src/backend/pdfs/*
+backend/output/*
+backend/deliver/*
+backend/pdfs/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
